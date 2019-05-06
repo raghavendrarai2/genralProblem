@@ -1,0 +1,6 @@
+com/crm/springbootstarter/tenant/Tenant.class
+com/crm/springbootstarter/tenant/TenantDto.class
+com/crm/springbootstarter/Application.class
+com/crm/springbootstarter/tenant/TenantRepository.class
+com/crm/springbootstarter/tenant/TenantController.class
+com/crm/springbootstarter/user/User.class
